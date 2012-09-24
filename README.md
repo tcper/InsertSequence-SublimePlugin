@@ -46,7 +46,7 @@ Select multi-lines than press ctrl(command in OS X) + shift + e to add sequence 
 	<s:Image source="assets/discount/17
 	<s:Image source="assets/discount/18
 
-## After super+shift+l(Windows/Linux ctrl+shift+e)
+## After super+shift+l(Windows/Linux ctrl+shift+l)
 
 	<s:Image source="assets/discount/0.png" />
 	<s:Image source="assets/discount/1.png" />
