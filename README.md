@@ -2,9 +2,7 @@
 
 Select multi-lines than press ctrl(command in OS X) + shift + e to add sequence to the end of every line.
 
-## Example
-
-* Before super+shift+e
+## Before super+shift+eExample
 
 	<s:Image source="assets/discount/
 	<s:Image source="assets/discount/
@@ -26,7 +24,7 @@ Select multi-lines than press ctrl(command in OS X) + shift + e to add sequence 
 	<s:Image source="assets/discount/
 	<s:Image source="assets/discount/
 
-* After super+shift+e(Windows/Linux ctrl+shift+e)
+## After super+shift+e(Windows/Linux ctrl+shift+e)
 
 	<s:Image source="assets/discount/0
 	<s:Image source="assets/discount/1
@@ -48,7 +46,7 @@ Select multi-lines than press ctrl(command in OS X) + shift + e to add sequence 
 	<s:Image source="assets/discount/17
 	<s:Image source="assets/discount/18
 
-* After super+shift+l(Windows/Linux ctrl+shift+e)
+## After super+shift+l(Windows/Linux ctrl+shift+e)
 
 	<s:Image source="assets/discount/0.png" />
 	<s:Image source="assets/discount/1.png" />
